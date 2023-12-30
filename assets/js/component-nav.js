@@ -18,13 +18,11 @@ class Header extends HTMLElement {
                                   <li>
                                       <a href="#">Company</a>
                                       <ul>
-                                          <li><a href="#">About</a></li>
-                                          <li><a href="#">Mission</a></li>
-                                          <li><a href="#">Vision</a></li>
-                                          <li><a href="#">Team</a></li>
+                                          <li><a href="about.html">About</a></li>
+                                          <li><a href="team.html">Team</a></li>
                                       </ul>
                                   </li>
-                                  <li><a href="no-sidebar.html">Contact Us</a></li>
+                                  <li><a href="contact-us.html">Contact Us</a></li>
                                   <!--li><a href="left-sidebar.html">Left Sidebar</a></li-->
                                   <!--li><a href="right-sidebar.html">Right Sidebar</a></li-->
                               </ul>
