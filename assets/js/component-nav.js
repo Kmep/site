@@ -13,12 +13,13 @@ class Header extends HTMLElement {
                       <!-- Nav -->
                           <nav id="nav">
                               <ul>
-                                  <li class="current_page_item"><a href="index.html">Home</a></li>
+                                  <li><a href="index.html">Home</a></li>
                                   <li><a href="services.html">Services</a></li>
                                   <li>
                                       <a href="#">Company</a>
                                       <ul>
                                           <li><a href="about.html">About</a></li>
+                                          <li><a href="leadership.html">Leadership</a></li>
                                           <li><a href="team.html">Team</a></li>
                                       </ul>
                                   </li>
